@@ -6,6 +6,13 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+### Added
+
+- I18n Jp. 
+
+### Changed
+
+- Crowdin configuration file.
 ## [2.7.2] - 2021-02-05
 
 ### Changed
